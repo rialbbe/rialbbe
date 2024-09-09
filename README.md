@@ -6,7 +6,7 @@
 - 🤖 Also watch me at odysee.com/@rialbbetv 
 - I'm also learning python currently.
 - Teaching students in primary school to get ready for middle school in science and computers.
-- Introducing them Linux and Windows desktops and navigating as they try to navigate this two desktop environment.
+- Introducing them Linux, Windows and MacOS desktops and navigating as they try to navigate this two desktop environment.
 <!---
 rialbbe/rialbbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
